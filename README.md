@@ -1,7 +1,7 @@
 # Современные технологии программирования - 1
 ## Лабораторные работы
 
-0. [Темы лабораторных работ][topics]
+[Темы лабораторных работ][topics]
 1. [Работа с системой контроля версий. Use Case Diagram.][l1.1]
 2. [Прототипирование пользовательского интерфейса. Class Diagram.][l1.2]
 3. [Отладка. Deployment Diagram. Разработка визуального интерфейса.][l1.3]
@@ -11,8 +11,6 @@
 7. [Code Analysis. Sequence Diagram. WCF.][l1.7]
 8. [Software Metrics. Software Documentation.][l1.8]
  
-Все задания с 2й работы начиная будут включать теоретические вопросы на проработку.
-
 [topics]: <https://github.com/kpi-r520/STP-1/blob/master/topics.md>
 [l1.1]: <https://github.com/kpi-r520/STP-1/blob/master/lab-1.md>
 [l1.2]: <https://github.com/kpi-r520/STP-1/blob/master/lab-2.md>
